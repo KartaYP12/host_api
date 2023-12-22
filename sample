@@ -1,0 +1,184 @@
+{
+    "user" : [
+        {
+            "id": 1,
+            "name": "Imam Sayyid",
+            "email": "Imamsayyid6@gmail.com",
+            "profile": "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20023846.png?raw=true",
+            "status" : "Active",
+            "role" : "Sekretaris Umum",
+            "instagram" : "@im_alhikam"
+        },
+        {
+            "id": 2,
+            "name": "Andinny Adhityani S",
+            "email": "Andinny@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20024147.png?raw=true",
+            "status" : "Active",
+            "role" : "Bendahara Umum",
+            "instagram" : "@andinny__"
+        },
+        {
+            "id": 3,
+            "name": "Ahmad Dwi",
+            "email": "Ahmad@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20025635.png?raw=true",
+            "status" : "Active",
+            "role" : "Kepala Bidang Diklat & Keorganisasian",
+            "instagram" : "-"
+        },
+        {
+            "id": 4,
+            "name": "M.Ridzal Nashirulhaq",
+            "email": "ijal@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20025647.png?raw=true",
+            "status" : "InActive",
+            "role" : "Anggota Bidang Diklat & Keorganisasian ",
+            "instagram" : "-"
+        },
+        {
+            "id": 5,
+            "name": "M. Bagas Hidayat",
+            "email": "bagas@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20025657.png?raw=true",
+            "status" : "Active",
+            "role" : "Anggota Bidang Diklat & Keorganisasian ",
+            "instagram" : "@mhmbagas_20"
+        },
+        {
+            "id": 6,
+            "name": "M. Darga Prawira",
+            "email": "darga@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20025717.png?raw=true",
+            "status" : "InActive",
+            "role" : "Anggota Bidang Humas & Kemitraan ",
+            "instagram" : "-"
+        },
+        {
+            "id": 7,
+            "name": "Indri Agustin",
+            "email": "indri@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20025739.png?raw=true",
+            "status" : "InActive",
+            "role" : "Anggota Bidang Humas & Kemitraan ",
+            "instagram" : "-"
+        },
+        {
+            "id": 8,
+            "name": "Tatang Slamet",
+            "email": "tatang@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20025749.png?raw=true",
+            "status" : "Active",
+            "role" : "Kepala Bidang Humas & Kemitraan ",
+            "instagram" : "@slamettatang823"
+        },
+        {
+            "id": 9,
+            "name": "Devortivo",
+            "email": "devor@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20025811.png?raw=true",
+            "status" : "InActive",
+            "role" : "Anggota Bidang Olahraga ",
+            "instagram" : "-"
+        },
+        {
+            "id": 10,
+            "name": "Faisal Abdi Negara",
+            "email": "jadul@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20025838.png?raw=true",
+            "status" : "Active",
+            "role" : "Kepala Bidang Olahraga ",
+            "instagram" : "@faisaljadul"
+        },
+        {
+            "id": 11,
+            "name": "Marza Fathan",
+            "email": "fathan@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20030004.png?raw=true",
+            "status" : "Active",
+            "role" : "Anggota Bidang Olahraga ",
+            "instagram" : "@mrzfathann"
+        },
+        {
+            "id": 12,
+            "name": "Sulthan Ramdani",
+            "email": "sulthan@gmail.com",
+            "profile" : " ",
+            "status" : "InActive",
+            "role" : "Anggota Bidang Ekonomi Produktif",
+            "instagram" : "-"
+        },
+        {
+            "id": 13,
+            "name": "Neneng Gustriani",
+            "email": "neneng@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20030029.png?raw=true",
+            "status" : "Active",
+            "role" : "Kepala Bidang Ekonomi Produktif ",
+            "instagram" : "@nenenggstr"
+        },
+        {
+            "id": 14,
+            "name": "M. Ridho Firdaus",
+            "email": "ridho@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20030039.png?raw=true",
+            "status" : "Active",
+            "role" : "Anggota Bidang Ekonomi Produktif",
+            "instagram" : "-"
+        },
+        {
+            "id": 15,
+            "name": "Ramdani",
+            "email": "ramdani@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20030050.png?raw=true",
+            "status" : "Active",
+            "role" : "Kepala Bidang Seni & Budaya ",
+            "instagram" : "-"
+        },
+        {
+            "id": 16,
+            "name": "Melsya Julianti",
+            "email": "melsya@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20030100.png?raw=true",
+            "status" : "Active",
+            "role" : "Anggota Bidang Seni & Olahraga ",
+            "instagram" : "@melsyajp_"
+        },
+        {
+            "id": 17,
+            "name": "Alya Kusuma Wardhani",
+            "email": "alyakw2804@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20030137.png?raw=true",
+            "status" : "Active",
+            "role" : "Kepala Bidang Sosial & Kemasyarakatan",
+            "instagram" : "@alyakwardhani"
+        },
+        {
+            "id": 18,
+            "name": "Adiya Fauzan Adzima",
+            "email": "adityafauzana@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20030204.png?raw=true",
+            "status" : "Active",
+            "role" : "Anggota Bidang Sosial & Kemasyarakatan ",
+            "instagram" : "@adityafauzana"
+        },
+        {
+            "id": 19,
+            "name": "Alisha Mulya Wardhani",
+            "email": "alishamulya2005@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20030152.png?raw=true",
+            "status" : "Active",
+            "role" : "Anggota Bidang Sosial & Kemasyarakatan ",
+            "instagram" : "@alishamlyw"
+        },
+        {
+            "id": 20,
+            "name": "Dava Hafizh",
+            "email": "dave@gmail.com",
+            "profile" : "https://github.com/KartaYP12/YP/blob/main/Screenshot%202023-12-15%20032819.png?raw=true",
+            "status" : "InActive",
+            "role" : "Anggota Bidang Sosial & Kemasyarakatan ",
+            "instagram" : "@davahafizzz"
+        }
+    ]
+}
